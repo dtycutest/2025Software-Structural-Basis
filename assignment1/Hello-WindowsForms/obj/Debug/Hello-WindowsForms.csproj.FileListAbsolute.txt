@@ -1,0 +1,10 @@
+D:\VSnoCode\Hello-WindowsForms\bin\Debug\Hello-WindowsForms.exe.config
+D:\VSnoCode\Hello-WindowsForms\bin\Debug\Hello-WindowsForms.exe
+D:\VSnoCode\Hello-WindowsForms\bin\Debug\Hello-WindowsForms.pdb
+D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.csproj.AssemblyReference.cache
+D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello_WindowsForms.Form1.resources
+D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello_WindowsForms.Properties.Resources.resources
+D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.csproj.GenerateResource.cache
+D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.csproj.CoreCompileInputs.cache
+D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.exe
+D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.pdb
