@@ -5,3 +5,10 @@ D:\VSnoCode\CulTwo\obj\Debug\CulTwo.csproj.AssemblyReference.cache
 D:\VSnoCode\CulTwo\obj\Debug\CulTwo.csproj.CoreCompileInputs.cache
 D:\VSnoCode\CulTwo\obj\Debug\CulTwo.exe
 D:\VSnoCode\CulTwo\obj\Debug\CulTwo.pdb
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\CulTwo\obj\Debug\CulTwo.csproj.AssemblyReference.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\CulTwo\obj\Debug\CulTwo.csproj.CoreCompileInputs.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\CulTwo\obj\Debug\CulTwo.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\CulTwo\obj\Debug\CulTwo.pdb
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\CulTwo\bin\Debug\CulTwo.exe.config
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\CulTwo\bin\Debug\CulTwo.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\CulTwo\bin\Debug\CulTwo.pdb

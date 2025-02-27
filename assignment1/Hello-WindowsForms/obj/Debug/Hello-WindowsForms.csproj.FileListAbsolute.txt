@@ -8,3 +8,13 @@ D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.csproj.GenerateResou
 D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.csproj.CoreCompileInputs.cache
 D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.exe
 D:\VSnoCode\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.pdb
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\Hello-WindowsForms\bin\Debug\Hello-WindowsForms.exe.config
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\Hello-WindowsForms\bin\Debug\Hello-WindowsForms.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\Hello-WindowsForms\bin\Debug\Hello-WindowsForms.pdb
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.csproj.AssemblyReference.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\Hello-WindowsForms\obj\Debug\Hello_WindowsForms.Form1.resources
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\Hello-WindowsForms\obj\Debug\Hello_WindowsForms.Properties.Resources.resources
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.csproj.GenerateResource.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.csproj.CoreCompileInputs.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment1\Hello-WindowsForms\obj\Debug\Hello-WindowsForms.pdb

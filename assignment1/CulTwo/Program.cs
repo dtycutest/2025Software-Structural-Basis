@@ -20,7 +20,16 @@ namespace CulTwo
             if (opt == '+') ans = a + b;
             if (opt == '-') ans = a - b;
             if (opt == '*') ans = a * b;
-            if (opt == '/') ans = a / b;
+            if (opt == '/')
+            {
+                if(b!=0)
+                    ans = a / b;
+                else
+                {
+                    Console.WriteLine("不可以除以零TuT");
+                    return;
+                }
+            }
             if (opt == '%') ans = a % b;
             Console.WriteLine(ans);
         }

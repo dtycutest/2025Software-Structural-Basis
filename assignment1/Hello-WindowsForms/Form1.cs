@@ -41,7 +41,16 @@ namespace Hello_WindowsForms
             if (opt == "+") res = a + b;
             if (opt == "-") res = a - b;
             if (opt == "*") res = a * b;
-            if (opt == "/") res = a / b;
+            if (opt == "/")
+            {
+                if(b!=0)
+                    res = a / b;
+                else
+                {
+                    label4.Text = "不可以除以0 qwq";
+                    return;
+                }
+            }
             if (opt == "%") res = a % b;
             label4.Text = res.ToString();
         }

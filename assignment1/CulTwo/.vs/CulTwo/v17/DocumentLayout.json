@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VSnoCode\\CulTwo\\",
+  "WorkspaceRootPath": "D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\CulTwo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBDC003C-B938-44E5-9C69-C2412BF6D056}|CulTwo.csproj|d:\\vsnocode\\cultwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBDC003C-B938-44E5-9C69-C2412BF6D056}|CulTwo.csproj|d:\\vsnocode\\ssb\\2025software-structural-basis\\assignment1\\cultwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBDC003C-B938-44E5-9C69-C2412BF6D056}|CulTwo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VSnoCode\\CulTwo\\Program.cs",
+              "DocumentMoniker": "D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\CulTwo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\VSnoCode\\CulTwo\\Program.cs",
+              "ToolTip": "D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\CulTwo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T06:56:05.85Z",
               "EditorCaption": ""

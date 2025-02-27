@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VSnoCode\\Hello-WindowsForms\\",
+  "WorkspaceRootPath": "D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\Hello-WindowsForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|d:\\vsnocode\\hello-windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|d:\\vsnocode\\hello-windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|d:\\vsnocode\\ssb\\2025software-structural-basis\\assignment1\\hello-windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|d:\\vsnocode\\hello-windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\Hello-WindowsForms\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|d:\\vsnocode\\ssb\\2025software-structural-basis\\assignment1\\hello-windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8448C433-9115-4BAB-81FE-31012103B7E1}|Hello-WindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,10 +27,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\Hello-WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\Hello-WindowsForms\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:27:30.678Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\VSnoCode\\Hello-WindowsForms\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\Hello-WindowsForms\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "D:\\VSnoCode\\Hello-WindowsForms\\Form1.Designer.cs",
+              "ToolTip": "D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\Hello-WindowsForms\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,28 +51,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\VSnoCode\\Hello-WindowsForms\\Form1.cs",
+              "DocumentMoniker": "D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\Hello-WindowsForms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\VSnoCode\\Hello-WindowsForms\\Form1.cs",
+              "ToolTip": "D:\\VSnoCode\\SSB\\2025Software-Structural-Basis\\assignment1\\Hello-WindowsForms\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAD4vy0AAAApAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAD4vyMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T07:14:41.79Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\VSnoCode\\Hello-WindowsForms\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\VSnoCode\\Hello-WindowsForms\\Form1.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T07:13:48.636Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
             }
           ]
         }
