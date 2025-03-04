@@ -1,0 +1,7 @@
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\EratosthenesSieve\bin\Debug\EratosthenesSieve.exe.config
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\EratosthenesSieve\bin\Debug\EratosthenesSieve.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\EratosthenesSieve\bin\Debug\EratosthenesSieve.pdb
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\EratosthenesSieve\obj\Debug\EratosthenesSieve.csproj.AssemblyReference.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\EratosthenesSieve\obj\Debug\EratosthenesSieve.csproj.CoreCompileInputs.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\EratosthenesSieve\obj\Debug\EratosthenesSieve.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\EratosthenesSieve\obj\Debug\EratosthenesSieve.pdb

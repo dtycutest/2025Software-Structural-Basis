@@ -1,0 +1,7 @@
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\TPLCMatrix\obj\Debug\TPLCMatrix.csproj.AssemblyReference.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\TPLCMatrix\obj\Debug\TPLCMatrix.csproj.CoreCompileInputs.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\TPLCMatrix\bin\Debug\TPLCMatrix.exe.config
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\TPLCMatrix\bin\Debug\TPLCMatrix.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\TPLCMatrix\bin\Debug\TPLCMatrix.pdb
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\TPLCMatrix\obj\Debug\TPLCMatrix.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\TPLCMatrix\obj\Debug\TPLCMatrix.pdb

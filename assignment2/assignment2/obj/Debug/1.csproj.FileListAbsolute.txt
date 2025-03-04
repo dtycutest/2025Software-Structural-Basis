@@ -1,0 +1,7 @@
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\assignment2\bin\Debug\assignment2.exe.config
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\assignment2\bin\Debug\assignment2.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\assignment2\bin\Debug\assignment2.pdb
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\assignment2\obj\Debug\1.csproj.AssemblyReference.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\assignment2\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\assignment2\obj\Debug\assignment2.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\assignment2\obj\Debug\assignment2.pdb

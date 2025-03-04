@@ -1,0 +1,7 @@
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\ArrayCul\bin\Debug\ArrayCul.exe.config
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\ArrayCul\bin\Debug\ArrayCul.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\ArrayCul\bin\Debug\ArrayCul.pdb
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\ArrayCul\obj\Debug\ArrayCul.csproj.AssemblyReference.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\ArrayCul\obj\Debug\ArrayCul.csproj.CoreCompileInputs.cache
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\ArrayCul\obj\Debug\ArrayCul.exe
+D:\VSnoCode\SSB\2025Software-Structural-Basis\assignment2\ArrayCul\obj\Debug\ArrayCul.pdb
