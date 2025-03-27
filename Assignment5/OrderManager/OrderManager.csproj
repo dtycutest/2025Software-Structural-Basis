@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8C94E284-DB89-4100-BBFA-77E48D936CCC}</ProjectGuid>
+    <ProjectGuid>{2F19C804-9ECE-4459-AD14-D2721FDBEF97}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NodeListForEach</RootNamespace>
-    <AssemblyName>NodeListForEach</AssemblyName>
+    <RootNamespace>OrderManager</RootNamespace>
+    <AssemblyName>OrderManager</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
