@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OrderManager
 {
-    public class Order
+    public class Order:IComparable<Order>
     {
         private string id;
         private OrderDetails details;
@@ -41,15 +41,17 @@ namespace OrderManager
             if(id==order.id&&details==order.details) return true;
             return false;
         }
+        public int CompareTo(Order other)
+        {
+            return (other == null) ? 1 : int.Parse(id) - int.Parse(other.id);
+        }
     }
     public class OrderDetails
     {
         private List<Goods> goods;
-        private int price;
         private Customer customer;
         public OrderDetails(Customer customer)
         {
-            this.price = 0;
             this.customer = customer;
             this.goods=new List<Goods>();
         }
@@ -57,8 +59,6 @@ namespace OrderManager
         {
             Goods good = new Goods(name, num, unitPrice);
             this.goods.Add(good);
-            //Console.WriteLine(good);
-            price += num * unitPrice;
         }
         public override string ToString()
         {
@@ -69,7 +69,7 @@ namespace OrderManager
                 goodsStr += good.ToString();
                 if(i<goods.Count-1) goodsStr += ",";
             }
-            return $"{{goods:[{goodsStr}],price:{price},customer:{customer}}}";
+            return $"{{goods:[{goodsStr}],customer:{customer}}}";
         }
         public bool CheckGoods(string name)
         {
@@ -80,9 +80,18 @@ namespace OrderManager
         {
             return customer.CheckName(name);
         }
+        public int GetTotalPrice()
+        {
+            int res = 0;
+            foreach(Goods good in goods)
+            {
+                res += good.GetPrice();
+            }
+            return res;
+        }
         public bool CheckPrice(int min,int max)
         {
-            return price >= min && price <= max;
+            return GetTotalPrice() >= min && GetTotalPrice() <= max;
         }
         public override bool Equals(object obj)
         {
@@ -91,6 +100,7 @@ namespace OrderManager
             return false;
         }
     }
+    public delegate int Comparison<T>(T a, T b);
     public class OrderService
     {
         private static List<Order> orders=new List<Order>();
@@ -205,6 +215,10 @@ namespace OrderManager
                 Console.WriteLine(o);
             }
         }
+        public static void SortOrders(Comparison<Order> method)
+        {
+            orders.Sort(method);
+        }
     }
     public class Goods
     {
@@ -224,6 +238,10 @@ namespace OrderManager
         public bool CheckName(string name)
         {
             return this.name == name;
+        }
+        public int GetPrice()
+        {
+            return num * unitPrice;
         }
     }
     public class Customer
