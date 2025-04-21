@@ -4,16 +4,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
 
 namespace OrderApp
 {
 
     class MainClass
     {
+        
         public static void Main()
         {
             try
             {
+                //TestMySQL();
                 Customer customer1 = new Customer(1, "Customer1");
                 Customer customer2 = new Customer(2, "Customer2");
 
